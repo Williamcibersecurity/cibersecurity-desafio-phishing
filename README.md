@@ -69,7 +69,9 @@ Este projeto demonstra como configurar uma página de phishing usando o Kali Lin
 ---
 
 ## 📜 **Licença**
-Este projeto é licenciado sob os termos da [Licença MIT](LICENSE).
+### Licença
+Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](https://opensource.org/license/mit) para mais detalhes.
+
 
 ---
 
@@ -163,7 +165,8 @@ This project demonstrates how to set up a phishing page using Kali Linux and the
 ---
 
 ## 📜 **License**
-This project is licensed under the terms of the [MIT License](LICENSE).
+This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/license/mit) file for details.
+
 
 ---
 
